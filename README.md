@@ -3,22 +3,14 @@
 
 ## A basic sample app based on MVP architecture.
 
-<img src=https://raw.githubusercontent.com/amitshekhariitbhu/android-mvp-basic-sample/master/assets/mvp.png >
+<img src=https://raw.githubusercontent.com/abdallahali/android-mvp-basic-sample/master/assets/mvp.png >
 
-## [My Personal Blog - amitshekhar.me](https://amitshekhar.me/blog) - High-quality content to learn Android concepts.
 
-You can connect with me on:
-
-- [Twitter](https://twitter.com/amitiitbhu)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-- [Facebook](https://www.facebook.com/amit.shekhar.iitbhu)
-
-[**Read all of my blogs here.**](https://amitshekhar.me/blog)
+[**Read all of my blogs here.**](https://abdallahali.me/blog)
 
 ### License
 ```
-   Copyright (C) 2022 Amit Shekhar
+   Copyright (C) Abdallal Ali Mostafa Elabd 
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
